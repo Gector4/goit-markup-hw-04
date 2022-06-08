@@ -357,6 +357,9 @@ address {
     border-radius: 4px;
      
    } 
+   .social-list-link{
+     cursor: default;
+   }
    
   .list-peculiarities{
     display: flex;
