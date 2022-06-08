@@ -361,7 +361,7 @@ address {
      cursor: default;
    }
    
-  .list-peculiarities{
+  .list-peculiarities {
     display: flex;
     justify-content:space-between;
     margin-right: -30px;    
